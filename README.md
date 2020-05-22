@@ -1,2 +1,2 @@
-# testrmd
-Displaying html via github
+# ATOMiC
+Details about ATOMiC
